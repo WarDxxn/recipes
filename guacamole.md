@@ -4,4 +4,5 @@
 * lemon
 * salt
 ## Instructions
-peel the avacados
+*put one avocado into a bowl then test
+
