@@ -4,6 +4,6 @@
 * lemon
 * salt
 ## Instructions
-*put one avocado into a bowl
+*put one avocado into a bowl then test
 
 
